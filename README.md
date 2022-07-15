@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jenna-lee-graham/"><img src="https://img.shields.io/badge/JennaGraham-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-## Hi there 👋
+## Hi there 👋🏽
 
 * ✨ My name is @jenna-graham
 * 🖥 I am a full stack software developer
