@@ -7,7 +7,7 @@
 * ✨ My name is @jenna-graham
 * 🖥 I am a full stack software developer
 * 👩🏽‍🦱 I use *she/her* pronouns
-* 🌱 My hobbies are 🧘🏽‍♀️ yoga, 💃🏾 dancing
+* 🌱 My hobbies are 🧘🏽‍♀️ yoga, 💃🏾 dancing 📖 reading
 * 👯‍♂️ I'm looking to collaborate on socio-economic accessibility apps or design
 * 💬 Ask me about my photography www.jennalee.photography
 * 😎 Fun fact: I am currently learning to DJ 🎧
