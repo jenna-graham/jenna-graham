@@ -1,5 +1,5 @@
 <p align="center">
-  ![My Image}(Jenna-Graham(3).png)
+  <img src=(Jenna-Graham(3).png)>
 <a href="https://www.linkedin.com/in/jenna-lee-graham/"><img src="https://img.shields.io/badge/JennaGraham-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
